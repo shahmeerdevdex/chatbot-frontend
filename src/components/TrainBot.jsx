@@ -48,8 +48,8 @@ const TrainBot = () => {
     
 data:{
   additionalData:{
-    Company_introduction: "Li que Miami",
-    Greeting_message: "Hello, welcome to LI QUE Miami, the place of finest dining, how can I assist you today?",
+    Company_introduction: "Civil Security",
+    Greeting_message: "Hello, welcome to Civil Security, how can I assist you today?",
     Restrictions: "Be Polite, courteous, respectful, helpful.",
     Eligibility_criteria: "Everyone is eligible"
   },
